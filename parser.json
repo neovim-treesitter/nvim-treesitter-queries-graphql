@@ -1,7 +1,6 @@
 {
   "semver": false,
-  "lang": "graphql",
-  "location": null,
   "parser_version": "5e66e961eee421786bdda8495ed1db045e06b5fe",
+  "lang": "graphql",
   "url": "https://github.com/bkegley/tree-sitter-graphql"
 }
